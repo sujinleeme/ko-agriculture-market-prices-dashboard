@@ -1,0 +1,8 @@
+{
+  "name": "ko-agriculture-market-prices-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sujinleeme/ko-agriculture-market-prices-dashboard.git",
+  "author": "sujinleeme <sujinlee.me@gmail.com>",
+  "license": "MIT"
+}
